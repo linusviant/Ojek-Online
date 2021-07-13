@@ -6,7 +6,11 @@ buildscript {
         google()
     }
     dependencies {
+<<<<<<< HEAD
         classpath 'com.android.tools.build:gradle:4.2.2'
+=======
+        classpath 'com.android.tools.build:gradle:3.5.2'
+>>>>>>> origin/main
         classpath 'com.jakewharton:butterknife-gradle-plugin:9.0.0-rc2'
         classpath 'com.google.gms:google-services:4.3.3'
         classpath 'io.realm:realm-gradle-plugin:7.0.0'
